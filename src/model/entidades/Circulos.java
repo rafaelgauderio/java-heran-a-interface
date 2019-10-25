@@ -2,7 +2,7 @@ package model.entidades;
 
 import model.enums.Cor;
 
-public class Circulos  extends Formas {
+public class Circulos  extends FormasAbstratas {
 	
 	private Double raio;
 	

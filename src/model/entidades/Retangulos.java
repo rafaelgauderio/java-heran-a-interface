@@ -2,7 +2,7 @@ package model.entidades;
 
 import model.enums.Cor;
 
-public class Retangulos extends Formas{
+public class Retangulos extends FormasAbstratas{
 	
 	private Double altura;
 	private Double largura;
